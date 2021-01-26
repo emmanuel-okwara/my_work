@@ -63,3 +63,15 @@ class AddingStack(Stack):
         self._sum = 0
 
 '''
+
+class count:
+    counter = 0
+
+    def __init__(self):
+        count.counter +=1
+
+h =count()
+w = count()
+h = count()
+
+print(h.counter)
